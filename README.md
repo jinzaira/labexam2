@@ -24,8 +24,3 @@ JavaScript: Fetches and displays real-time weather data (assuming the JS is impl
 - A web browser (e.g., Chrome, Firefox, Edge)
 - An internet connection
 
- Clone the Repository
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
